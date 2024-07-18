@@ -1,0 +1,11 @@
+# config files
+*.toml
+
+# pptx
+*.pptx
+
+# python notebooks
+*.ipynb
+
+# env variables
+.env
